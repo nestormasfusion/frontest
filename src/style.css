@@ -1,0 +1,57 @@
+.topnav{
+	height: 20px;
+	width: 100%;
+	background-color: blue;
+}
+.white2{
+	background-color: #ffffff;
+}
+.slider .indicators .indicator-item.active {
+	background-color: blue;
+}
+.slider .indicators .indicator-item {
+	display: inline-block;
+	position: relative;
+	cursor: pointer;
+	height: 16px;
+	width: 16px;
+	margin: 0 12px;
+	-webkit-transition: background-color .3s;
+	transition: background-color .3s;
+	border-radius: 50%;
+}
+.nav-right{
+	right: auto;
+	position: absolute;
+	right: 40px;
+}
+.bluilblue{
+	background-color: #105294;
+}
+.center, .center-align {
+  text-align: center;
+}
+.blue2{
+	background-color: #136DC8;
+}
+.btn:hover, .btn-large:hover {
+	background-color: blue;
+}
+.titulo-card{
+	font-size: 1.6rem;
+}
+.card-height{
+	height:130px;
+}
+.mosaico{
+	background-color: #F9F9F9;
+}
+.project{
+	background: url("../Assets/IMG/contacto02.jpg") no-repeat center fixed;
+	background-size: cover;
+}
+.maxime{
+	width: 95%;
+	height: 70px;
+	background-color: #105294;
+}
